@@ -28,7 +28,7 @@
 
 **1. Clone este repositório para o seu ambiente local:**
 ```bash
-git clone https://github.com/seu-usuario/BancoDigital.git
+git clone https://github.com/gustavocampelo/BancoDigital.git
 ```
 
 **2. Abra o projeto em sua IDE Java preferida (Eclipse, IntelliJ IDEA, NetBeans, etc.).**
